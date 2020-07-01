@@ -1,0 +1,17 @@
+.carousel .slide {
+    background: none; 
+}
+
+.carousel-root {
+    height: 650px;
+    margin: 0 auto;
+}
+.control-dots{
+    margin-top: 30px;
+}
+
+.carousel .control-dots .dot {
+    margin: 3px;
+    width: 10px;
+    height: 10px;
+}
